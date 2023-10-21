@@ -1,4 +1,4 @@
-# Turtlesim installation
+<img width="409" alt="Screenshot 2023-10-21 at 1 58 05 PM" src="https://github.com/Azizbek-Akhmadov/Turtlesim-project/assets/81019633/6201536b-d12b-46a7-979a-64648d42324a"># Turtlesim installation
 
 ### First of all, make sure your system is up-to-date
 ```
@@ -80,9 +80,8 @@ Use arrow keys to move the turtle.
 Use G|B|V|C|D|E|R|T keys to rotate to absolute orientations. 'F' to cancel a rotation.
 'Q' to quit.
 ```
-![](https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/screenshots/Screen%20Shot%202022-09-25%20at%2010.11.58.png)
-# TURTLE simulation
-![](https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/screenshots/Peek%202022-09-24%2018-24.gif)
+
+
 ### ROS2 Colcon
 ```bash
 # INSTALLING Colcon
@@ -260,7 +259,7 @@ azizbekakhmadov@ubuntu:~/ros2_ws/src/py_srvcli$ nano client_member_function.py
 ----------------------------------------------------------------------------------
 azizbekakhmadov@ubuntu:~/ros2_ws/src/py_srvcli$ nano setup.py
 ```
-![](https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/screenshots/Screen%20Shot%202022-10-04%20at%2011.20.46.png)
+
 ```bash
 # BUILD AND RUN
 ----------------
@@ -326,7 +325,7 @@ azizbekakhmadov@ubuntu:~$ nano fibonacci_action_client.py
 #You can get the action_client code from this link:
 ---------------------------------------------------
 ```
-(https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/action(server%26client)/fibonacci_action_client.py)
+
 
 ```bash
 #Run the action client
@@ -440,7 +439,7 @@ ulugbekmirzabakhromov@ubuntu:~/launch$ ros2 launch turtlesim_mimic_launch.py
 [turtlesim_node-2] [INFO] [1665555660.642208649] [turtlesim2.sim]: Spawning turtle [turtle1] at x=[5.544445], y=[5.544445], theta=[0.000000]
 [turtlesim_node-1] [INFO] [1665555660.645056958] [turtlesim1.sim]: Spawning turtle [turtle1] at x=[5.544445], y=[5.544445], theta=[0.000000]
 ```
-![](https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/screenshots/Screen%20Shot%202022-10-12%20at%2015.28.55.png)
+
 
 #To see the system in action, open a new terminal and run the commands below
 ```bash
@@ -451,14 +450,14 @@ publishing #1: geometry_msgs.msg.Twist(linear=geometry_msgs.msg.Vector3(x=2.0, y
 publishing #2: geometry_msgs.msg.Twist(linear=geometry_msgs.msg.Vector3(x=2.0, y=0.0, z=0.0), angular=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=-1.8))
 ....
 ```
-![](https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/screenshots/turtlesimlaunch.gif)
+
 
 #Introspect the sytem with rqt_graph
 ```bash
 azizbekakhmadov@ubuntu:~/launch$ rqt_graph
 [INFO] [1665557607.422017603] [rclcpp]: signal_handler(signal_value=2)
 ```
-![](https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/screenshots/Screen%20Shot%202022-10-12%20at%2015.53.14.png)
+
 
 #Integrating launch files into ROS 2 packages
 ```bash
@@ -502,5 +501,14 @@ azizbekakhmadov@ubuntu:~/launch_ws/src/py_launch_example$ ros2 launch my_script_
 [talker-1] [INFO] [1666085860.901022715] [talker]: Publishing: 'Hello World: 4'
 [talker-1] [INFO] [1666085861.893365115] [talker]: Publishing: 'Hello World: 5'
 [talker-1] [INFO] [1666085862.885724569] [talker]: Publishing: 'Hello World: 
-....
-```
+....<img width="744" alt="Screenshot 2023-10-21 at 1 59 10 PM" src="https://github.com/Azizbek-Akhmadov/Turtlesim-project/assets/81019633/7fb87357-fb5a-49f3-9a53-c19d9b582308">
+
+```<img width="546" alt="Screen<im<img width="670" alt="Screenshot 2023-10-21 at 1 58 55 PM" src="https://github.com/Azizbek-Akhmadov/Turtlesim-project/assets/81019633/e51a7e71-40fe-4a15-b013-d717ce60ba14">
+g width="624" alt="Screenshot 2023-10-21 at 1 58 41 PM" src="https://github.com/Azizbek-Akhmadov/Turtlesim-project/assets/81019633/79f661f5-048b-4f3c-a614-6b4b24e14fc0">
+shot 2023-10-21 at 1 58 31 PM" src="https://github.com/Azizbek-Akhmadov/Turtlesim-project/assets/81019633/50f51938-792d-4e68-af5f-31ca1d943efa">
+
+![Uploading Screenshot 2023<img width="565" alt="Screenshot 2023-10-21 at 1 58 18 PM" src="https://github.com/Azizbek-Akhmadov/Turtlesim-project/assets/81019633/1bfb663d-2955-4b04-833c-9023e722275a">
+-10-21 at 1.58.05 PM.png…]()
+
+<img width="602" alt="Screenshot 2023-10-21 at 1 57 50 PM" src="https://github.com/Azizbek-Akhmadov/Turtlesim-project/assets/81019633/29a67f3a-b8a1-4a55-b1e5-c1cd174ceab8">
+

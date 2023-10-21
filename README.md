@@ -28,7 +28,7 @@ azizbekakhmadov:~$ ros2 run turtlesim turtlesim_node
 ```
 ### To control the turtle type the following command:
 ```
-ulugbekmirzabakhromov@ubuntu:~$ ros2 run turtlesim turtle_teleop_key
+azizbekakhmadov@ubuntu:~$ ros2 run turtlesim turtle_teleop_key
 Reading from keyboard
 ---------------------------
 Use arrow keys to move the turtle.

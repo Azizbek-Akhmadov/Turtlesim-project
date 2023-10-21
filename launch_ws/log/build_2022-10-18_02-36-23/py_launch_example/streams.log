@@ -1,0 +1,33 @@
+[0.794s] Invoking command in '/home/ulugbekmirzabakhromov/launch_ws/src/py_launch_example': PYTHONPATH=/home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_launch_example build --build-base /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/build install --prefix /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example --record /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/install.log --single-version-externally-managed
+[1.087s] running egg_info
+[1.088s] creating ../../build/py_launch_example/py_launch_example.egg-info
+[1.088s] writing ../../build/py_launch_example/py_launch_example.egg-info/PKG-INFO
+[1.088s] writing dependency_links to ../../build/py_launch_example/py_launch_example.egg-info/dependency_links.txt
+[1.089s] writing entry points to ../../build/py_launch_example/py_launch_example.egg-info/entry_points.txt
+[1.089s] writing requirements to ../../build/py_launch_example/py_launch_example.egg-info/requires.txt
+[1.089s] writing top-level names to ../../build/py_launch_example/py_launch_example.egg-info/top_level.txt
+[1.091s] writing manifest file '../../build/py_launch_example/py_launch_example.egg-info/SOURCES.txt'
+[1.129s] reading manifest file '../../build/py_launch_example/py_launch_example.egg-info/SOURCES.txt'
+[1.130s] writing manifest file '../../build/py_launch_example/py_launch_example.egg-info/SOURCES.txt'
+[1.131s] running build
+[1.131s] running build_py
+[1.131s] creating /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/build
+[1.132s] creating /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/build/lib
+[1.132s] creating /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/build/lib/py_launch_example
+[1.132s] copying py_launch_example/__init__.py -> /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/build/lib/py_launch_example
+[1.133s] running install
+[1.134s] running install_lib
+[1.135s] creating /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/lib/python3.8/site-packages/py_launch_example
+[1.135s] copying /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/build/lib/py_launch_example/__init__.py -> /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/lib/python3.8/site-packages/py_launch_example
+[1.136s] byte-compiling /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/lib/python3.8/site-packages/py_launch_example/__init__.py to __init__.cpython-38.pyc
+[1.138s] running install_data
+[1.139s] creating /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/share/ament_index
+[1.140s] creating /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/share/ament_index/resource_index
+[1.140s] creating /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/share/ament_index/resource_index/packages
+[1.141s] copying resource/py_launch_example -> /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/share/ament_index/resource_index/packages
+[1.141s] copying package.xml -> /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/share/py_launch_example
+[1.141s] running install_egg_info
+[1.144s] Copying ../../build/py_launch_example/py_launch_example.egg-info to /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/lib/python3.8/site-packages/py_launch_example-0.0.0-py3.8.egg-info
+[1.145s] running install_scripts
+[1.176s] writing list of installed files to '/home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/install.log'
+[1.203s] Invoked command in '/home/ulugbekmirzabakhromov/launch_ws/src/py_launch_example' returned '0': PYTHONPATH=/home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_launch_example build --build-base /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/build install --prefix /home/ulugbekmirzabakhromov/launch_ws/install/py_launch_example --record /home/ulugbekmirzabakhromov/launch_ws/build/py_launch_example/install.log --single-version-externally-managed

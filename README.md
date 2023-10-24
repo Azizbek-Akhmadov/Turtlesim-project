@@ -443,7 +443,7 @@ ulugbekmirzabakhromov@ubuntu:~/launch$ ros2 launch turtlesim_mimic_launch.py
 
 #To see the system in action, open a new terminal and run the commands below
 ```bash
-ulugbekmirzabakhromov@ubuntu:~/launch$ ros2 topic pub -r 1 /turtlesim1/turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 2.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: -1.8}}"
+
 publisher: beginning loop
 publishing #1: geometry_msgs.msg.Twist(linear=geometry_msgs.msg.Vector3(x=2.0, y=0.0, z=0.0), angular=geometry_msgs.msg.Vector3(x=0.0, y=0.0, z=-1.8))
 

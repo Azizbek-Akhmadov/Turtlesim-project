@@ -289,8 +289,7 @@ azizbekakhmadov@ubuntu:~$ nano fibonacci_action_server.py
 
 #You can get the action_server code from this link:
 ---------------------------------------------------
-```
-(https://github.com/ULUGBEK12194914/turtlesim_project/blob/main/action(server%26client)/fibonacci_action_server.py)
+``
 
 ```bash
 #Run the action server

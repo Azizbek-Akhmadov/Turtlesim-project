@@ -427,7 +427,7 @@ azizbekakhmadov@ubuntu:~/launch$ nano turtlesim_mimic_launch.py
 
 #Run the launch file created above
 ----------------------------------
-ulugbekmirzabakhromov@ubuntu:~/launch$ ros2 launch turtlesim_mimic_launch.py
+azizbekakhmadov@ubuntu:~/launch$ ros2 launch turtlesim_mimic_launch.py
 [INFO] [launch]: All log files can be found below /home/ulugbekmirzabakhromov/.ros/log/2022-10-11-23-20-59-048056-ubuntu-74002
 [INFO] [launch]: Default logging verbosity is set to INFO
 [INFO] [turtlesim_node-1]: process started with pid [74004]
